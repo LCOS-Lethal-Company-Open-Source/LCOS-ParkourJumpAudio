@@ -1,4 +1,5 @@
-# Template Mod
+# Parkour Jump Audio
 
-Put your description here!
-Default icon by @lilujk on github.
+Changes jump audio to 'Parkour!' audio from 'The Office.'
+Created by @maryellenmarino and @marinocj on GitHub.
+Default icon by @lilujk on GitHub.
